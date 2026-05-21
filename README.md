@@ -1,88 +1,89 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:000000&height=120&section=header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,14&height=180&section=header&text=Goo%20Zhen%20Jie&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20React%20%2F%20TypeScript%20%7C%20BI%20Dashboard%20Builder&descAlignY=55&descSize=16" />
+</div>
 
 <table>
   <tr>
-    <td width="55%">
-      <h1>Hi, I'm Goo Zhen Jie 👋</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&width=500&lines=Software+Engineer;React+%2F+TypeScript+Specialist;Large-scale+BI+Dashboard+Builder;Always+learning%2C+always+building" />
-      <br/><br/>
-      <p>📍 Petaling Jaya, Malaysia &nbsp;·&nbsp; 🟢 Open to opportunities</p>
+    <td width="55%" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=500&lines=Software+Engineer;React+%2F+TypeScript+Specialist;Large-scale+BI+Dashboard+Builder;Always+learning%2C+always+building" />
       <br/>
+      Software engineer with 2+ years building <strong>large-scale BI dashboard systems</strong> in React / TypeScript. Currently at <strong>Tencent Malaysia</strong> — developing core infrastructure for a game analytics platform: schema-driven page rendering engine, centralised data-service layer, and ECharts visualisations powering multiple live titles.
+      <br/><br/>
       <a href="https://portfolio-ruddy-kappa-cmz6ebs5j8.vercel.app/en">
-        <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+        <img src="https://img.shields.io/badge/View_Portfolio_→-0891B2?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio" />
       </a>
       &nbsp;
       <a href="mailto:goozhenjie5@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
       </a>
       &nbsp;
       <a href="https://linkedin.com/in/goozhenjie">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
       </a>
     </td>
-    <td width="45%" align="center">
-      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="280" style="border-radius:12px" />
     </td>
   </tr>
 </table>
 
 ---
 
-🧑‍💻 Software engineer with **2+ years** of experience in **React / TypeScript** and large-scale BI dashboard systems.
-Currently at **Tencent Malaysia** 🎮 building a game analytics platform (~1,400+ TSX components).
-
----
-
 ## 🛠️ Tech Stack
 
-**Frontend**
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" title="TypeScript" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" title="React" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" title="JavaScript" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" title="HTML5" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" title="CSS3" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" title="Sass" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" title="Tailwind CSS" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="28" title="Ant Design" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Mobile</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="28" title="Go" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" title="PHP" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" title="Laravel" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" title="Flutter" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="28" title="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & DevOps</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" title="MySQL" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" title="PostgreSQL" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="28" title="Redis" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" title="Docker" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" title="Git" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" title="Linux" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="30" alt="antdesign" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,14&height=100&section=footer" />
 </div>
-
-**Backend & Mobile**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase" />
-</div>
-
-**Data & DevOps**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4A90E2&height=80&section=footer" />

@@ -85,26 +85,4 @@ Currently at **Tencent Malaysia** 🎮 building a game analytics platform (~1,40
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
 </div>
 
----
-
-## 🚧 Currently Building
-
-**Food on the Run** — full-stack food delivery platform as a monorepo. Consumer web app + admin dashboard + Go backend, managed with pnpm + Turborepo.
-
-`TypeScript` · `React` · `UmiJS` · `Ant Design` · `Go` · `PostgreSQL` · `Redis` · `Docker`
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goozhenjie&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goozhenjie&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
----
-
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/goozhenjie/goozhenjie/snake-output/snake.svg" alt="Snake animation" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4A90E2&height=80&section=footer" />

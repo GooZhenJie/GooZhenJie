@@ -71,12 +71,13 @@ Currently at **Tencent Malaysia** 🎮 building a game analytics platform (~1,40
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goozhenjie&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goozhenjie&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 <div align="center">📬 goozhenjie5@gmail.com</div>

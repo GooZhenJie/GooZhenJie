@@ -9,7 +9,7 @@
       <br/>
       Software engineer with 2+ years building <strong>large-scale BI dashboard systems</strong> in React / TypeScript. Currently at <strong>Tencent Malaysia</strong> — developing core infrastructure for a game analytics platform: schema-driven page rendering engine, centralised data-service layer, and ECharts visualisations powering multiple live titles.
       <br/><br/>
-      <a href="https://portfolio-ruddy-kappa-cmz6ebs5j8.vercel.app/en">
+      <a href="https://goozhenjie-portfolio.vercel.app">
         <img src="https://img.shields.io/badge/View_Portfolio_→-0891B2?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio" />
       </a>
       &nbsp;

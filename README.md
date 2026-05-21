@@ -4,16 +4,16 @@
   <tr>
     <td width="55%">
       <h1>Hi, I'm Goo Zhen Jie 👋</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&width=500&lines=Software+Engineer+💻;React+%2F+TypeScript+Specialist+⚛️;Large-scale+BI+Dashboard+Builder+📊;Always+learning%2C+always+building+🚀" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&width=500&lines=Software+Engineer;React+%2F+TypeScript+Specialist;Large-scale+BI+Dashboard+Builder;Always+learning%2C+always+building" />
       <br/><br/>
       <p>📍 Petaling Jaya, Malaysia &nbsp;·&nbsp; 🟢 Open to opportunities</p>
       <br/>
       <a href="https://portfolio-ruddy-kappa-cmz6ebs5j8.vercel.app/en">
-        <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       &nbsp;
       <a href="mailto:goozhenjie5@gmail.com">
-        <img src="https://img.shields.io/badge/📬 Email-EA4335?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
       &nbsp;
       <a href="https://linkedin.com/in/goozhenjie">
@@ -21,7 +21,7 @@
       </a>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" />
     </td>
   </tr>
 </table>

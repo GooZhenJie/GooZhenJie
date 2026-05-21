@@ -1,9 +1,13 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:000000&height=120&section=header" />
+
   <h1>Hi, I'm Goo Zhen Jie 👋</h1>
-  <p>Software Engineer · React / TypeScript · Large-scale BI Dashboard Systems</p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Software+Engineer;React+%2F+TypeScript+Specialist;Large-scale+BI+Dashboard+Builder" />
+
   <p>📍 Petaling Jaya, Malaysia &nbsp;·&nbsp; 🟢 Open to opportunities</p>
   <br/>
-  <a href="https://portfolio-ruddy-kappa-cmz6ebs5j8.vercel.app">
+  <a href="https://portfolio-ruddy-kappa-cmz6ebs5j8.vercel.app/en">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" />
   </a>
   &nbsp;
@@ -31,4 +35,5 @@ Software engineer with 2+ years of experience in React / TypeScript and large-sc
 
 ---
 
-📬 **your@email.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR

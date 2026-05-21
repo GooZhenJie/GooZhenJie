@@ -23,7 +23,11 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,react,js,html,css,sass,tailwind,go,php,laravel,flutter,firebase,mysql,postgres,redis,docker,git,linux" />
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,sass,tailwind,nodejs,go,php,laravel,flutter,firebase,mysql,postgres,redis,supabase,docker,linux,git,vscode,github,npm,postman,notion,md&perline=20" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,14&height=100&section=footer" />

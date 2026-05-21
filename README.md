@@ -9,16 +9,8 @@
       <br/>
       Software engineer with 2+ years building <strong>large-scale BI dashboard systems</strong> in React / TypeScript. Currently at <strong>Tencent Malaysia</strong> — developing core infrastructure for a game analytics platform: schema-driven page rendering engine, centralised data-service layer, and ECharts visualisations powering multiple live titles.
       <br/><br/>
-      <a href="https://goozhenjie-portfolio.vercel.app">
-        <img src="https://img.shields.io/badge/View_Portfolio_→-0891B2?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio" />
-      </a>
-      &nbsp;
-      <a href="mailto:goozhenjie5@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
-      </a>
-      &nbsp;
-      <a href="https://linkedin.com/in/goozhenjie">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
+      <a href="https://goozhenjie-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/View_Portfolio_→-0891B2?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio" />
       </a>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -31,17 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,react,js,html,css,sass,tailwind" />
-
-**Backend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=go,php,laravel,flutter,firebase" />
-
-**Data & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=ts,react,js,html,css,sass,tailwind,go,php,laravel,flutter,firebase,mysql,postgres,redis,docker,git,linux" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,14&height=100&section=footer" />
